@@ -1,0 +1,17 @@
+generated: '2026-10-21'
+method: probed
+source:
+  - url: https://help.paybook.com/en/article/privacy-and-security-policy-k33bgf.md
+    http_status: 200
+    fetched: true
+signals:
+  - signal: data_retention
+    evidence:
+      quote: "We retain information we collect about you for as long as necessary to fulfill the purposes described in this Policy, unless a longer retention period is required or permitted under applicable law, regulation, or contract."
+      section: Data Retention
+      note: "States retention period is purpose‑based and may be indefinite, indicating a retention policy."
+  - signal: data_subject_request
+    evidence:
+      quote: "If you are a European data subject and wish to exercise one of the above‑mentioned rights, please send us your request via email to: security@paybook.com. ... We will respond to your request within 30 days from the date we receive the request."
+      section: Data Subject Rights
+      note: "Provides mechanism for data subject requests, covering access, rectification, erasure, restriction, objection, and portability."

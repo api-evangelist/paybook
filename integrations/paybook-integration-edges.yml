@@ -1,0 +1,16 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/paybook/integrations
+- https://n8n.io/integrations/paybook/
+- https://composio.dev/toolkits/paybook
+- https://monid.ai/tools/paybook
+checked:
+- https://composio.dev/toolkits/paybook
+- https://monid.ai/tools/paybook
+- https://n8n.io/integrations/paybook/
+- https://zapier.com/apps/paybook/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
